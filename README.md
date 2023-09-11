@@ -1,3 +1,5 @@
+This is a React, Tailwind CSS, Next.JS, Prisma, MongoDB, and NextAuth based Netflix application. This is a powerful and scalable application with sign in capabilites, and netflix video functionalities. 
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
